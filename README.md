@@ -247,15 +247,25 @@ Frontend : HTML | Bootstrap 5 | Custom CSS
 
 sorting_project/
 │
+
 ├── sortapp/
+
 │ ├── views.py
+
 │ ├── forms.py
+
 │ ├── utils.py
+
 │ ├── templates/sort.html
+
 ├──sorting_project/
+
 | ├──settings.py
+
 ├── manage.py
+
 └── README.md
+
 
 # ⚙️ Installation and Setup
 
